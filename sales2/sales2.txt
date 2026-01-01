@@ -1,0 +1,71 @@
+Basic
+
+Load the CSV file using pandas.
+
+Display first 5 rows.
+
+Display last 10 rows.
+
+Find total number of rows and columns.
+
+Show column names.
+
+Filtering
+
+Get all employees from IT department.
+
+Employees whose salary > 40000.
+
+Employees from Chennai.
+
+Employees with experience >= 5 years.
+
+HR employees with salary < 35000.
+
+Aggregation
+
+Find average salary.
+
+Find maximum salary.
+
+Find minimum age.
+
+Average salary by department.
+
+Count employees in each city.
+
+Sorting
+
+Sort by salary (ascending).
+
+Sort by age (descending).
+
+Sort by experience then salary.
+
+GroupBy
+
+Department-wise average salary.
+
+City-wise employee count.
+
+Department-wise maximum experience.
+
+Average salary of IT employees per city.
+
+Advanced
+
+Add a new column Bonus = Salary * 0.10.
+
+Employees earning more than department average salary.
+
+Top 5 highest paid employees.
+
+Employees with experience between 5 and 10.
+
+Rename column EmpID to Employee_ID.
+
+Drop the City column.
+
+Check for null values.
+
+Export filtered IT employees to new CSV.
